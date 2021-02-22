@@ -1,0 +1,42 @@
+body {
+  background-color: #dffbff;
+  margin: 0;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.restbody {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #b5bad8;
+  border-width: 2px;
+  width: 100%;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+h3 {
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+li {
+  font-family: 'Montserrat', sans-serif;
+}
+
+table {
+  text-align: center;
+}
+
+.hithere {
+  text-align: center;
+}
