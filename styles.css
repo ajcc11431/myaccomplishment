@@ -23,6 +23,7 @@ h1 {
 
 h3 {
   font-family: 'Akaya Telivigala', cursive;
+  font-size: xx-large;
 }
 
 p {
@@ -39,4 +40,14 @@ table {
 
 .hithere {
   text-align: center;
+}
+
+.gif {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.cloudimg1 {
+  padding-top: 10px;
 }
