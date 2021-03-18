@@ -1,12 +1,11 @@
 body {
-  background-color: #dffbff;
+  background-color: #222;
   margin: 0;
   font-family: 'Akaya Telivigala', cursive;
 }
 
 .restbody {
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
 }
 
 hr {
@@ -18,29 +17,26 @@ hr {
 }
 
 h1 {
-  color: rgb(0, 0, 0);
+  color: #C0C0C0;
 }
 
 h3 {
   font-family: 'Akaya Telivigala', cursive;
   font-size: xx-large;
+  padding-left: 20px;
+  color: #C0C0C0;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
+  color: #C0C0C0;
 }
 
 li {
   font-family: 'Montserrat', sans-serif;
+  color: #C0C0C0;
 }
 
-table {
-  text-align: center;
-}
-
-.hithere {
-  text-align: center;
-}
 
 .gif {
   padding-left: 20px;
@@ -50,4 +46,32 @@ table {
 
 .cloudimg1 {
   padding-top: 10px;
+}
+
+a {
+  padding: 20px;
+}
+
+ul {
+  color: #C0C0C0;
+}
+
+ol {
+  color: #C0C0C0;
+}
+
+td {
+  color: #C0C0C0;
+}
+
+a {
+  color: #C0C0C0;
+}
+
+button {
+  width: 200px;
+  background-color: #222;
+  margin-left: 20px;
+  color: white;
+  border-style: solid;
 }
