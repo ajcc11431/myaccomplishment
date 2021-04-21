@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "worknet251.me",
+  "Id": "604d006c-83c1-419a-94a3-5b63315014bf"
+}
